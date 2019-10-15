@@ -1,0 +1,35 @@
+td {
+	background-color: #808080;
+}
+
+th {
+    border: thick double #696969;
+    padding: 15px;
+}
+
+td {
+	text-align: center;
+	cursor: pointer; 
+}
+
+.orange {
+	background-color: orange; 
+	color: green
+}
+
+.purple {
+	background-color: #EE82EE;
+}
+
+.blue {
+	background-color: #26619c;
+}
+
+.yellow {
+	background-color: #FFFF00;
+
+}
+
+td:hover {
+	background-color: #C0C0C0;
+}
